@@ -1,0 +1,4 @@
+interface:
+  display_name: "Academic Presentation Deck"
+  short_description: "Build editable academic submission and rehearsal decks"
+  default_prompt: "Use $academic-presentation-deck to turn my paper, template, and speaking constraints into editable submission and preparation decks."
